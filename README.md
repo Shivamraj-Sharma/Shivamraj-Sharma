@@ -1,16 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Shivamraj Sharma, a passionate Python developer with a knack for exploring and working with various technologies, from <img src="https://flagcdn.com/in.svg" width="18"/> <b> Indore, Madhya Pradesh.</b> 
-<br/>My journey in the tech world is driven by curiosity and a desire to continuously learn and innovate.</p>
-<p>🔭 <b>What I’m working on:</b>
-Building robust and scalable web applications using Django and Flask.
-Crafting efficient data processing pipelines with Pandas and NumPy.
-Creating dynamic and interactive visualizations with Plotly and Matplotlib.
-Diving into the world of machine learning with TensorFlow and Scikit-learn.
-🌱 <b>What I’m learning:</b>
-Enhancing my cloud computing skills with AWS and Google Cloud.
-Exploring containerization and orchestration with Docker and Kubernetes.
-Keeping up-to-date with the latest advancements in AI and data science.</p>
+<br/>My journey in the tech world is driven by curiosity and a desire to continuously learn and innovate.
+<br/>🔭 <b>What I’m working on:</b><br/>
+ <ul> 
+<li> Building robust and scalable web applications using Django and Flask. </li>
+<li> Crafting efficient data processing pipelines with Pandas and NumPy.</li>
+<li> Creating dynamic and interactive visualizations with Plotly and Matplotlib.</li>
+<li> Diving into the world of machine learning with TensorFlow and Scikit-learn.</li>
+ </ul>
+<br/>🌱 <b>What I’m learning:</b><br/>
+ <ul>
+<li> Enhancing my cloud computing skills with AWS and Google Cloud.</li>
+<li> Exploring containerization and orchestration with Docker and Kubernetes.</li>
+<li> Keeping up-to-date with the latest advancements in AI and data science.</li></ul></p>
 
 ## ⚡ Things I code with
 
