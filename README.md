@@ -9,11 +9,13 @@
 <li> Creating dynamic and interactive visualizations with Plotly and Matplotlib.</li>
 <li> Diving into the world of machine learning with TensorFlow and Scikit-learn.</li>
  </ul>
-<br/>🌱 <b>What I’m learning:</b><br/>
- <ul>
-<li> Enhancing my cloud computing skills with AWS and Google Cloud.</li>
-<li> Exploring containerization and orchestration with Docker and Kubernetes.</li>
-<li> Keeping up-to-date with the latest advancements in AI and data science.</li></ul></p>
+<br/>🌱 <b>What I’m learning:</b> 
+  <ul>
+<br/><li> Enhancing my cloud computing skills with AWS and Google Cloud. </li>
+<li> Exploring containerization and orchestration with Docker and Kubernetes. </li>
+<li> Keeping up-to-date with the latest advancements in AI and data science. </li>
+  </ul>
+  </p>
 
 ## ⚡ Things I code with
 
