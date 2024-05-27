@@ -1,7 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Shivamraj Sharma, a passionate Python developer with a knack for exploring and working with various technologies. from <img src="https://flagcdn.com/in.svg" width="18"/> <b> Indore, Madhya Pradesh.</b> 
+<p>Welcome to my page! </br> I'm Shivamraj Sharma, a passionate Python developer with a knack for exploring and working with various technologies, from <img src="https://flagcdn.com/in.svg" width="18"/> <b> Indore, Madhya Pradesh.</b> 
 <br/>My journey in the tech world is driven by curiosity and a desire to continuously learn and innovate.</p>
+<p>🔭 <b>What I’m working on:</b>
+Building robust and scalable web applications using Django and Flask.
+Crafting efficient data processing pipelines with Pandas and NumPy.
+Creating dynamic and interactive visualizations with Plotly and Matplotlib.
+Diving into the world of machine learning with TensorFlow and Scikit-learn.
+🌱 <b>What I’m learning:</b>
+Enhancing my cloud computing skills with AWS and Google Cloud.
+Exploring containerization and orchestration with Docker and Kubernetes.
+Keeping up-to-date with the latest advancements in AI and data science.</p>
 
 ## ⚡ Things I code with
 
